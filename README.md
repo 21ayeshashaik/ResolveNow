@@ -29,8 +29,6 @@ ResolveNow is a full-stack web application that allows users to submit complaint
 ## 🚀 Live Demo
 [Live App](https://complaint-management-system-five.vercel.app/)
 
-## 🎥 Demo Video
-[Watch Video](https://drive.google.com/file/d/19wOPmpqUMx6H1Sfv23Mj4OUjMQi59_AB/view?usp=sharing)
 
 ## 🛠️ Tech Stack
 - Frontend: React.js, Context API, Tailwind CSS
